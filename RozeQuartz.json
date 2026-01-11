@@ -1,10 +1,10 @@
 {
-  "name": "RozeQuartz",
-  "description": "Very pink",
+  "name": "RozeQuartz High Contrast",
+  "description": "RozeQuartz with enhanced contrast and pink highlights",
   "version": "2",
   "authors": [
     {
-      "name": "Machi",
+      "name": "Matt",
       "id": "755950362342457384"
     }
   ],
@@ -251,9 +251,7 @@
     "BLUE_630": "#ffbaf2",
     "BLUE_660": "#ffbaf2",
     "BLUE_700": "#ffbaf2",
-    "BLACK_500": [
-      "#000000cc"
-    ],
+    "BLACK_500": "#000000cc",
     "BRAND_200": "#ff9ecb",
     "BRAND_260": "#ff9ecb",
     "BRAND_300": "#ffbaf2",
