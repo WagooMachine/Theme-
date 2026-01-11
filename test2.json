@@ -4,8 +4,8 @@
   "version": "1",
   "authors": [
     {
-      "name": "machi",
-      "id": "755950362342457384"
+      "name": "kmmiio99o.dev",
+      "id": "879393496627306587"
     }
   ],
   "semanticColors": {
@@ -29,6 +29,21 @@
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#ffaa4450"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#1a2838"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+      "#ff8c4220"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "#2a3a4a"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "#ffaa4440"
+    ],
+    "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+      "#ff8c4215"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#ff6b3580"
@@ -205,13 +220,13 @@
       "#4a6b7c"
     ],
     "TEXT_NORMAL": [
-      "#b8d4e0"
+      "#c8d8e2"
     ],
     "TEXT_PRIMARY": [
       "#ffd97d"
     ],
     "TEXT_SECONDARY": [
-      "#6fa8ba"
+      "#9db8c8"
     ],
     "BG_MOD_FAINT": [
       "#ff8c4208"
@@ -280,7 +295,7 @@
     "PLUM_19": "#1a2838",
     "PLUM_20": "#0a1520",
     "PLUM_22": "#1a2838",
-    "PLUM_23": "#1a2838",
+    "PLUM_23": "#152028",
     "PLUM_24": "#1a2838",
     "PLUM_25": "#0a1520",
     "PLUM_3": "#ffaa44",
@@ -291,9 +306,9 @@
     "PRIMARY_200": "#ffd97d",
     "PRIMARY_230": "#1a2838",
     "PRIMARY_300": "#ffaa44",
-    "PRIMARY_330": "#b8d4e0",
-    "PRIMARY_360": "#b8d4e0",
-    "PRIMARY_400": "#6fa8ba",
+    "PRIMARY_330": "#d0dfe8",
+    "PRIMARY_360": "#d0dfe8",
+    "PRIMARY_400": "#9db8c8",
     "PRIMARY_460": "#1a2838",
     "PRIMARY_500": "#ff8c42",
     "PRIMARY_530": "#ff8c42",
@@ -367,8 +382,8 @@
     "YELLOW_630": "#ff8c42",
     "YELLOW_660": "#ff8c42",
     "YELLOW_700": "#ff8c42",
-    "WHITE_500": "#b8d4e0",
-    "WHITE_630": "#6fa8ba"
+    "WHITE_500": "#c8d8e2",
+    "WHITE_630": "#9db8c8"
   },
   "plus": {
     "version": "0",
