@@ -1,11 +1,4 @@
-{
-  "name": "Sõmnum",
-  "description": "A theme inspired by Yume Nikki Wiki's .",
-  "version": "5",
-  "authors": [
-    {
-      "name": "Machi",
-      "id": "755950362342457384"
+id": "755950362342457384"
     }
   ],
   "semanticColors": {
@@ -41,7 +34,7 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
@@ -81,7 +74,7 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_SECONDARY": [
@@ -106,12 +99,12 @@
     ],
     "BG_BASE_PRIMARY": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
@@ -181,7 +174,7 @@
     ],
     "DEPRECATED_STORE_BG": [
       "#2b1f2b",
-      "#f5e8ed",
+      "#E5CDD3",
       "#2b1e27"
     ],
     "DEPRECATED_TEXT_INPUT_BG": [
@@ -266,7 +259,7 @@
     ],
     "INFO_DANGER_FOREGROUND": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "INFO_DANGER_TEXT": [
@@ -281,7 +274,7 @@
     ],
     "INFO_HELP_FOREGROUND": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "INFO_HELP_TEXT": [
@@ -296,7 +289,7 @@
     ],
     "INFO_POSITIVE_FOREGROUND": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "INFO_POSITIVE_TEXT": [
@@ -311,7 +304,7 @@
     ],
     "INFO_WARNING_FOREGROUND": [
       "#1a0f1a",
-      "#f5e8ed",
+      "#E5CDD3",
       "#1f161c"
     ],
     "INFO_WARNING_TEXT": [
