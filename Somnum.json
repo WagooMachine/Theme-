@@ -1,4 +1,11 @@
-id": "755950362342457384"
+{
+  "name": "Sõmnum",
+  "description": "A theme inspired by Yume Nikki Wiki's dreamy mauve and brown aesthetic.",
+  "version": "5",
+  "authors": [
+    {
+      "name": "Machi",
+      "id": "755950362342457384"
     }
   ],
   "semanticColors": {
