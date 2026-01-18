@@ -1,7 +1,7 @@
 {
   "name": "Sõmnum",
   "description": "A theme inspired by Yume Nikki Wiki's.",
-  "version": "9",
+  "version": "8",
   "authors": [
     {
       "name": "Machi",
@@ -45,7 +45,7 @@
       "#1f161c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#18091a",
+      "#241824",
       "#e8d4dd",
       "#1f161c"
     ],
@@ -85,7 +85,7 @@
       "#1f161c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#18091a",
+      "#241824",
       "#e8d4dd",
       "#2b1e27"
     ],
@@ -592,7 +592,7 @@
     "PRIMARY_460": "#3d2843",
     "PRIMARY_500": "#9d5c88",
     "PRIMARY_560": "#8d5d8d",
-    "PRIMARY_600": "#18091a",
+    "PRIMARY_600": "#241824",
     "PRIMARY_630": "#1a0f1f",
     "PRIMARY_660": "#1a0f1a",
     "PRIMARY_700": "#0d0815",
@@ -635,7 +635,7 @@
     "PLUM_17": "#1a0f1a",
     "PLUM_18": "#2d1f38",
     "PLUM_19": "#3d2843",
-    "PLUM_20": "#18091a",
+    "PLUM_20": "#241824",
     "PLUM_22": "#3d2843",
     "PLUM_23": "#35243d",
     "PLUM_24": "#35243d",
