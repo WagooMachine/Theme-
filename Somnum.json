@@ -1,7 +1,7 @@
 {
   "name": "Sõmnum",
   "description": "A theme inspired by Yume Nikki Wiki's.",
-  "version": "8",
+  "version": "7",
   "authors": [
     {
       "name": "Machi",
@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#ff9dab",
+      "#e692c4",
       "#9b7b8f",
       "#c89aae"
     ],
@@ -25,17 +25,17 @@
       "#2b1e27"
     ],
     "BACKGROUND_MENTIONED": [
-      "#ff9dab33",
+      "#e692c433",
       "#9b7b8f33",
       "#d3869b33"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#ff9dab4d",
+      "#e692c44d",
       "#9b7b8f4d",
       "#d3869b4d"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#ff9dab1a",
+      "#e692c41a",
       "#9b7b8f1a",
       "#d3869b1a"
     ],
@@ -50,27 +50,27 @@
       "#1f161c"
     ],
     "BACKGROUND_ACCENT": [
-      "#ff9dab",
+      "#e692c4",
       "#9b7b8f",
       "#c89aae"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#ff9dab26",
+      "#e692c426",
       "#9b7b8f26",
       "#c89aae26"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#ff9dab33",
+      "#e692c433",
       "#9b7b8f33",
       "#c89aae33"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#ff9dab1a",
+      "#e692c41a",
       "#9b7b8f1a",
       "#c89aae1a"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#ff9dab99",
+      "#e692c499",
       "#9b7b8f99",
       "#c89aae99"
     ],
@@ -130,12 +130,12 @@
       "#2b1e27"
     ],
     "CHANNELS_DEFAULT": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
     "CHANNEL_ICON": [
-      "#ff9dab4d",
+      "#e692c44d",
       "#7d64724d",
       "#c89aae4d"
     ],
@@ -150,7 +150,7 @@
       "#2b1e27"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
@@ -175,7 +175,7 @@
       "#2b1e27"
     ],
     "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
@@ -200,12 +200,12 @@
       "#504945"
     ],
     "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
     "DEPRECATED_TEXT_INPUT_PREFIX": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
@@ -240,7 +240,7 @@
       "#251a21"
     ],
     "FOCUS_PRIMARY": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
@@ -255,7 +255,7 @@
       "#e8d4dd"
     ],
     "HEADER_SECONDARY": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
@@ -330,7 +330,7 @@
       "#e8d4dd"
     ],
     "INTERACTIVE_HOVER": [
-      "#ff9dab",
+      "#e692c4",
       "#4a3541",
       "#d4be98"
     ],
@@ -340,12 +340,12 @@
       "#504945"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#c89aae"
     ],
     "LOGO_PRIMARY": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
@@ -355,7 +355,7 @@
       "#d88593"
     ],
     "MENTION_BACKGROUND": [
-      "#ff9dab33",
+      "#e692c433",
       "#9b7b8f33",
       "#d3869b33"
     ],
@@ -395,7 +395,7 @@
       "#d47a8c"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
@@ -475,7 +475,7 @@
       "#00000066"
     ],
     "TEXTBOX_MARKDOWN_SYNTAX": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
@@ -485,12 +485,12 @@
       "#d47a8c"
     ],
     "TEXT_LINK": [
-      "#ff9dab",
+      "#e692c4",
       "#7d6472",
       "#c89aae"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#c97aff",
+      "#b994c7",
       "#7d6472",
       "#a79a83"
     ],
@@ -510,7 +510,7 @@
       "#f5e8ed"
     ],
     "TEXT_SECONDARY": [
-      "#c97aff",
+      "#e692c4",
       "#5d4552",
       "#c89aae"
     ],
@@ -584,10 +584,10 @@
     "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
     "PRIMARY_100": "#ffffff",
     "PRIMARY_130": "#f5d4ed",
-    "PRIMARY_200": "#ff9dab",
-    "PRIMARY_230": "#e88a9d",
-    "PRIMARY_300": "#ff9dab",
-    "PRIMARY_360": "#ff9dab",
+    "PRIMARY_200": "#e692c4",
+    "PRIMARY_230": "#d47aae",
+    "PRIMARY_300": "#e692c4",
+    "PRIMARY_360": "#e692c4",
     "PRIMARY_400": "#b66d9e",
     "PRIMARY_460": "#3d2843",
     "PRIMARY_500": "#9d5c88",
@@ -612,10 +612,10 @@
     "BLACK_860": "#000000",
     "BLACK_900": "#000000",
     "BRAND_230": "#f5d4ed",
-    "BRAND_260": "#ff9dab",
-    "BRAND_360": "#ff9dab",
-    "BRAND_500": "#ff9dab",
-    "BRAND_560": "#e88a9d",
+    "BRAND_260": "#e692c4",
+    "BRAND_360": "#e692c4",
+    "BRAND_500": "#e692c4",
+    "BRAND_560": "#d47aae",
     "RED_400": "#ff6b9d",
     "RED_430": "#ff6b9d",
     "RED_460": "#ff6b9d",
@@ -623,14 +623,14 @@
     "WHITE_500": "#f5d4ed",
     "YELLOW_300": "#d492b4",
     "PLUM_1": "#f5d4ed",
-    "PLUM_3": "#ff9dab",
+    "PLUM_3": "#e692c4",
     "PLUM_4": "#f5d4ed",
     "PLUM_6": "#f5d4ed",
-    "PLUM_9": "#c97aff",
-    "PLUM_10": "#c97aff",
-    "PLUM_11": "#c97aff",
-    "PLUM_13": "#c97aff",
-    "PLUM_15": "#ff9dab",
+    "PLUM_9": "#b994c7",
+    "PLUM_10": "#b994c7",
+    "PLUM_11": "#b994c7",
+    "PLUM_13": "#b994c7",
+    "PLUM_15": "#e692c4",
     "PLUM_16": "#3d2843",
     "PLUM_17": "#1a0f1a",
     "PLUM_18": "#2d1f38",
@@ -644,7 +644,7 @@
   "plus": {
     "version": 0,
     "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#ff9dab",
+    "mentionLineColor": "#e692c4",
     "customOverlays": true,
     "icons": {
       "trash": "#ff6b9d",
