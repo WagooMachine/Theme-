@@ -1,7 +1,7 @@
 {
   "name": "Sõmnum",
   "description": "A theme inspired by Yume Nikki Wiki's.",
-  "version": "5",
+  "version": "6",
   "authors": [
     {
       "name": "Machi",
@@ -15,12 +15,12 @@
       "#c89aae"
     ],
     "ACTIVITY_CARD_BACKGROUND": [
-      "#3d2838",
+      "#35243d",
       "#d4b5c3",
       "#2b1e27"
     ],
     "BACKGROUND_FLOATING": [
-      "#3d2838",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -40,12 +40,12 @@
       "#d3869b1a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#241824",
+      "#1f1428",
       "#e8d4dd",
       "#1f161c"
     ],
@@ -75,27 +75,27 @@
       "#c89aae99"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#251a21"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#241824",
+      "#1f1428",
       "#e8d4dd",
       "#2b1e27"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#251a21"
     ],
     "BACKGROUND_TERTIARY": [
-      "#15101a",
+      "#0d0815",
       "#c7a8b8",
       "#1a1216"
     ],
@@ -105,27 +105,27 @@
       "#000000cc"
     ],
     "BG_BASE_PRIMARY": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "CARD_PRIMARY_BG": [
-      "#2b1f2b",
+      "#35243d",
       "#e8d4dd",
       "#251a21"
     ],
     "CARD_SECONDARY_BG": [
-      "#3d2838",
+      "#35243d",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -145,7 +145,7 @@
       "transparent"
     ],
     "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -155,22 +155,22 @@
       "#a79a83"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#3d2838",
+      "#3d2843",
       "#e8d4dd",
       "#2b1e27"
     ],
     "DEPRECATED_CARD_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "DEPRECATED_CARD_EDITABLE_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -180,12 +180,12 @@
       "#a79a83"
     ],
     "DEPRECATED_STORE_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#E5CDD3",
       "#2b1e27"
     ],
     "DEPRECATED_TEXT_INPUT_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -210,32 +210,32 @@
       "#a79a83"
     ],
     "ELEVATION_HIGH": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "ELEVATION_LOW": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "ELEVATION_MEDIUM": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "EMBED_BACKGROUND": [
-      "#3d2838b3",
+      "#35243db3",
       "#c7a8b8b3",
       "#3d2e38"
     ],
     "ELEVATION_STROKE": [
-      "#6b4d6b",
+      "#8d5d8d",
       "#9b7b8f",
       "#504945"
     ],
     "EXPRESSION_PICKER_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#251a21"
     ],
@@ -260,12 +260,12 @@
       "#c89aae"
     ],
     "INFO_DANGER_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "INFO_DANGER_FOREGROUND": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -275,12 +275,12 @@
       "#d47a8c"
     ],
     "INFO_HELP_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "INFO_HELP_FOREGROUND": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -290,12 +290,12 @@
       "#e8d4dd"
     ],
     "INFO_POSITIVE_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "INFO_POSITIVE_FOREGROUND": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -305,12 +305,12 @@
       "#e8d4dd"
     ],
     "INFO_WARNING_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "INFO_WARNING_FOREGROUND": [
-      "#1a0f1a",
+      "#15091a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -320,7 +320,7 @@
       "#e8d4dd"
     ],
     "INPUT_BACKGROUND": [
-      "#3d2838",
+      "#3d2843",
       "#e8d4dd",
       "#2b1e27"
     ],
@@ -360,27 +360,27 @@
       "#d3869b33"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#c7a8b8",
       "#251a21"
     ],
     "PANEL_BG": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#251a21"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2b1f2b",
+      "#2d1f38",
       "#d4b5c3",
       "#2b1e27"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#6b4d6b",
+      "#8d5d8d",
       "#9b7b8f",
       "#c89aae"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#3d2838",
+      "#35243d",
       "#d4b5c3",
       "#2b1e27"
     ],
@@ -405,12 +405,12 @@
       "#e8d4dd"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#3d2838",
+      "#3d2843",
       "#e8d4dd",
       "#2b1e27"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#6b4d6b",
+      "#8d5d8d",
       "#9b7b8f",
       "#504945"
     ],
@@ -420,7 +420,7 @@
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#6b4d6b",
+      "#8d5d8d",
       "#9b7b8f",
       "#504945"
     ],
@@ -430,7 +430,7 @@
       "transparent"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#3d2838",
+      "#35243d",
       "#9b7b8f",
       "#2b1e27"
     ],
@@ -445,7 +445,7 @@
       "#d47a8c"
     ],
     "STATUS_DANGER_TEXT": [
-      "#1a0f1a",
+      "#15091a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -455,7 +455,7 @@
       "#a88899"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#1a0f1a",
+      "#15091a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -465,7 +465,7 @@
       "#c9a394"
     ],
     "STATUS_WARNING_TEXT": [
-      "#1a0f1a",
+      "#15091a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -530,12 +530,12 @@
       "#5049451a"
     ],
     "KEYBOARD": [
-      "#3d2838",
+      "#3d2843",
       "#e8d4dd",
       "#2b1e27"
     ],
     "AUTOCOMPLETE_BG": [
-      "#1a0f1a",
+      "#15091a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -560,12 +560,12 @@
       "#c89aae4d"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#3d2838",
+      "#35243d",
       "#c7a8b8",
       "#2b1e27"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#3d2838",
+      "#35243d",
       "#c7a8b8",
       "#2b1e27"
     ],
@@ -589,15 +589,15 @@
     "PRIMARY_300": "#e692c4",
     "PRIMARY_360": "#e692c4",
     "PRIMARY_400": "#b66d9e",
-    "PRIMARY_460": "#3d2838",
+    "PRIMARY_460": "#3d2843",
     "PRIMARY_500": "#9d5c88",
-    "PRIMARY_560": "#6b4d6b",
-    "PRIMARY_600": "#241824",
-    "PRIMARY_630": "#1f141f",
-    "PRIMARY_660": "#1a0f1a",
-    "PRIMARY_700": "#150a15",
-    "PRIMARY_800": "#100510",
-    "PRIMARY_900": "#2b1f2b",
+    "PRIMARY_560": "#8d5d8d",
+    "PRIMARY_600": "#1f1428",
+    "PRIMARY_630": "#1a0f1f",
+    "PRIMARY_660": "#15091a",
+    "PRIMARY_700": "#0d0815",
+    "PRIMARY_800": "#08040f",
+    "PRIMARY_900": "#2d1f38",
     "BLACK_500": "#000000",
     "BLACK_530": "#000000",
     "BLACK_560": "#000000",
@@ -631,15 +631,15 @@
     "PLUM_11": "#b994c7",
     "PLUM_13": "#b994c7",
     "PLUM_15": "#e692c4",
-    "PLUM_16": "#3d2838",
-    "PLUM_17": "#1a0f1a",
-    "PLUM_18": "#2b1f2b",
-    "PLUM_19": "#3d2838",
-    "PLUM_20": "#241824",
-    "PLUM_22": "#3d2838",
-    "PLUM_23": "#3d2838",
-    "PLUM_24": "#3d2838",
-    "PLUM_25": "#1a0f1a"
+    "PLUM_16": "#3d2843",
+    "PLUM_17": "#15091a",
+    "PLUM_18": "#2d1f38",
+    "PLUM_19": "#3d2843",
+    "PLUM_20": "#1f1428",
+    "PLUM_22": "#3d2843",
+    "PLUM_23": "#35243d",
+    "PLUM_24": "#35243d",
+    "PLUM_25": "#15091a"
   },
   "plus": {
     "version": 0,
