@@ -1,7 +1,7 @@
 {
   "name": "Sõmnum",
   "description": "A theme inspired by Yume Nikki Wiki's.",
-  "version": "6",
+  "version": "7",
   "authors": [
     {
       "name": "Machi",
@@ -40,12 +40,12 @@
       "#d3869b1a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1f1428",
+      "#241824",
       "#e8d4dd",
       "#1f161c"
     ],
@@ -80,12 +80,12 @@
       "#251a21"
     ],
     "BACKGROUND_PRIMARY": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1f1428",
+      "#241824",
       "#e8d4dd",
       "#2b1e27"
     ],
@@ -105,12 +105,12 @@
       "#000000cc"
     ],
     "BG_BASE_PRIMARY": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -265,7 +265,7 @@
       "#2b1e27"
     ],
     "INFO_DANGER_FOREGROUND": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -280,7 +280,7 @@
       "#2b1e27"
     ],
     "INFO_HELP_FOREGROUND": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -295,7 +295,7 @@
       "#2b1e27"
     ],
     "INFO_POSITIVE_FOREGROUND": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -310,7 +310,7 @@
       "#2b1e27"
     ],
     "INFO_WARNING_FOREGROUND": [
-      "#15091a",
+      "#1a0f1a",
       "#E5CDD3",
       "#1f161c"
     ],
@@ -445,7 +445,7 @@
       "#d47a8c"
     ],
     "STATUS_DANGER_TEXT": [
-      "#15091a",
+      "#1a0f1a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -455,7 +455,7 @@
       "#a88899"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#15091a",
+      "#1a0f1a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -465,7 +465,7 @@
       "#c9a394"
     ],
     "STATUS_WARNING_TEXT": [
-      "#15091a",
+      "#1a0f1a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -535,7 +535,7 @@
       "#2b1e27"
     ],
     "AUTOCOMPLETE_BG": [
-      "#15091a",
+      "#1a0f1a",
       "#f5e8ed",
       "#1f161c"
     ],
@@ -592,9 +592,9 @@
     "PRIMARY_460": "#3d2843",
     "PRIMARY_500": "#9d5c88",
     "PRIMARY_560": "#8d5d8d",
-    "PRIMARY_600": "#1f1428",
+    "PRIMARY_600": "#241824",
     "PRIMARY_630": "#1a0f1f",
-    "PRIMARY_660": "#15091a",
+    "PRIMARY_660": "#1a0f1a",
     "PRIMARY_700": "#0d0815",
     "PRIMARY_800": "#08040f",
     "PRIMARY_900": "#2d1f38",
@@ -632,14 +632,14 @@
     "PLUM_13": "#b994c7",
     "PLUM_15": "#e692c4",
     "PLUM_16": "#3d2843",
-    "PLUM_17": "#15091a",
+    "PLUM_17": "#1a0f1a",
     "PLUM_18": "#2d1f38",
     "PLUM_19": "#3d2843",
-    "PLUM_20": "#1f1428",
+    "PLUM_20": "#241824",
     "PLUM_22": "#3d2843",
     "PLUM_23": "#35243d",
     "PLUM_24": "#35243d",
-    "PLUM_25": "#15091a"
+    "PLUM_25": "#1a0f1a"
   },
   "plus": {
     "version": 0,
