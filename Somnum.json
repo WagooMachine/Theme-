@@ -1,13 +1,14 @@
 {
   "name": "Sõmnum",
   "description": "A theme inspired by Yume Nikki Wiki's.",
-  "version": "10",
+  "version": "11",
   "authors": [
     {
       "name": "Machi",
       "id": "755950362342457384"
     }
   ],
+  "spec": 2,
   "semanticColors": {
     "ANDROID_RIPPLE": [
       "#e692c4",
@@ -359,6 +360,9 @@
       "#D3869B33",
       "#d3869b33"
     ],
+    "TEXT_MENTION": [
+      "#e692c4"
+    ],
     "MODAL_FOOTER_BACKGROUND": [
       "#2d1f38",
       "#C4B4BE",
@@ -582,7 +586,7 @@
   },
   "rawColors": {
     "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-    "PRIMARY_100": "#ffffff",
+    "PRIMARY_100": "#f5d4ed",
     "PRIMARY_130": "#f5d4ed",
     "PRIMARY_200": "#e692c4",
     "PRIMARY_230": "#d47aae",
@@ -595,7 +599,7 @@
     "PRIMARY_600": "#241824",
     "PRIMARY_630": "#1a0f1f",
     "PRIMARY_660": "#1a0f1a",
-    "PRIMARY_700": "#0d0815",
+    "PRIMARY_700": "#b66d9e",
     "PRIMARY_800": "#08040f",
     "PRIMARY_900": "#2d1f38",
     "BLACK_500": "#000000",
@@ -621,24 +625,28 @@
     "RED_460": "#ff6b9d",
     "GREEN_360": "#a692d4",
     "WHITE_500": "#f5d4ed",
+    "YELLOW_260": "#e692c4",
     "YELLOW_300": "#d492b4",
+    "ORANGE_345": "#e692c4",
+    "LOL_TEXT_LIGHT": "#e692c4",
+    "LOL_TEXT_DARK": "#e692c4",
     "PLUM_1": "#f5d4ed",
     "PLUM_3": "#e692c4",
     "PLUM_4": "#f5d4ed",
     "PLUM_6": "#f5d4ed",
     "PLUM_9": "#b994c7",
     "PLUM_10": "#b994c7",
-    "PLUM_11": "#b994c7",
-    "PLUM_13": "#b994c7",
-    "PLUM_15": "#e692c4",
-    "PLUM_16": "#3d2843",
-    "PLUM_17": "#1a0f1a",
-    "PLUM_18": "#2d1f38",
-    "PLUM_19": "#3d2843",
-    "PLUM_20": "#241824",
-    "PLUM_22": "#3d2843",
-    "PLUM_23": "#35243d",
-    "PLUM_24": "#35243d",
+    "PLUM_11": "#0d0815",
+    "PLUM_13": "#1a0f1a",
+    "PLUM_15": "#1a0f1a",
+    "PLUM_16": "#1a0f1a",
+    "PLUM_17": "#0d0815",
+    "PLUM_18": "#0d0815",
+    "PLUM_19": "#1a0f1a",
+    "PLUM_20": "#0d0815",
+    "PLUM_22": "#0d0815",
+    "PLUM_23": "#1a0f1a",
+    "PLUM_24": "#1a0f1a",
     "PLUM_25": "#1a0f1a"
   },
   "plus": {
@@ -652,8 +660,14 @@
       "TriangleExclamationPointIcon": "#ff6b9d",
       "toast_copy_link": "#ffccf4",
       "toast_copy_message": "#feffff",
-      "toast_image_saved": "#feffff"
+      "toast_image_saved": "#feffff",
+      "ic_new_pins": "#ff6b9d",
+      "StatusStreaming": "#d47aae",
+      "StatusMobileOnline": "#a692d4",
+      "StatusIdle": "#d492b4",
+      "StatusDND": "#ff6b9d",
+      "StatusOffline": "#6b4d6b",
+      "StatusOnline": "#a692d4"
     }
-  },
-  "spec": 2
+  }
 }
